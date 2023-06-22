@@ -12,8 +12,22 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'Demo Doc',
+      repo: 'git@github.com:renashen314/WADS-Docsify-Demo.git',
+      alias: {
+        '/foo/(.*)': '/bar/$1', // supports regexp
+        '/zh-cn/changelog': '/changelog',
+        '/changelog':
+        'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG',
+        '/.*/_sidebar.md': '/_sidebar.md', // See #301
+      },
+      auto2top: true,
+      loadSidebar: true,
+      autoHeader: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      paths: 'auto',
+      relativePath: true
     }
   </script>
   <!-- Docsify v4 -->

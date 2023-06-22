@@ -1,4 +1,4 @@
-# WADS_database
+# WADS-doc-demo
 This is the README file that only developer have access to.
 
 ## Feature list:
