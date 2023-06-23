@@ -1,6 +1,6 @@
-## Feature ideas
+## Feature ideas that could be implemented in one year
   - Having a /docs and /docs/edit path to view and edit the docs as needed
-  
+
   - Having a /docs/[ROLE] and /docs/[ROLE]/edit to maintain user-level and stakeholder specific documentation
 
   - A way to add and annotate images with shapes and captions

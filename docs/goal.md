@@ -1,1 +1,4 @@
-A documentation template build with Ruby on Rails framework for all the web applications develop and maintian by WADS team.
+A **standardlized** documentation template for all the web applications develop and maintain by WADS team
+  - Easy to implement
+  - Easy to read
+  - Easy to maintain

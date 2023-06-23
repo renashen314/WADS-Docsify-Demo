@@ -8,6 +8,6 @@
   - [LSA Academic Services](/lsa-academic)
 - What to improve?
   - [Goal](/goal)
-  - [Now](/docsify-demo)
+  - [Now](/now)
   - [Near - In 1 year](/near)
   - [Future](/future)
