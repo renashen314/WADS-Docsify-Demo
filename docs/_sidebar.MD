@@ -1,11 +1,13 @@
+- [Agenda](/agenda)
 - Demo of Cool docs
-  - [Tailwind-CSS](/tailwind-css)
+  - [Tailwind CSS](/tailwind-css)
   - [Docsify](/docsify-doc)
   - [Gitlab](/gitlab)
 - Our Docs
   - [Mclassroom](/mclassroom)
-  - [LSA-academic-advising]
+  - [LSA Academic Services](/lsa-academic)
 - What to improve?
+  - [Goal]
   - [Now](/docsify-demo)
-  - [In-1-year](/in-1-year)
-  - [future](/future)
+  - [Near - In 1 year](/near)
+  - [Future](/future)
