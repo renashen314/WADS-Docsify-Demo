@@ -3,9 +3,11 @@
   - [Tailwind CSS](/tailwind-css)
   - [Docsify](/docsify-doc)
   - [Gitlab](/gitlab)
-- Our Docs
-  - [Mclassroom](/mclassroom)
-  - [LSA Academic Services](/lsa-academic)
+- Current Implementation
+  - [Google Docs](/gdocs)
+  - [Slide Decks](/slides)
+  - [Web Application](/webapp)
+  - [The Good and the Bad](/comparison)
 - What to improve?
   - [Goal](/goal)
   - [Now](/now)
