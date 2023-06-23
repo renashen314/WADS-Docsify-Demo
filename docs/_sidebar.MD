@@ -7,7 +7,7 @@
   - [Mclassroom](/mclassroom)
   - [LSA Academic Services](/lsa-academic)
 - What to improve?
-  - [Goal]
+  - [Goal](/goal)
   - [Now](/docsify-demo)
   - [Near - In 1 year](/near)
   - [Future](/future)
