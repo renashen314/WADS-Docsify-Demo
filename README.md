@@ -9,10 +9,10 @@ This is the README file that only developer have access to.
  5. Edit button link to github repo file
 
 
-## Presenttion topics:
+## Presentaion topics:
  - competitor docs
  - our doc expample
  - How can we improve?
    - now
-   - next year
+   - near
    - future
