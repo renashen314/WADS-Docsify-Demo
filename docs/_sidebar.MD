@@ -1,18 +1,12 @@
 - [Agenda](/agenda)
 - [Why Docsify?](/why-doc)
 - [Demo of Cool docs](/docs-examples)
-  - [Atlas]
-  - [Mprint]
-  - [Tailwind CSS](/tailwind-css)
-  - [Docsify](/docsify-doc)
-  - [Gitlab](/gitlab)
 - Current Implementation
   - [Google Docs](/gdocs)
   - [Slide Decks](/slides)
   - [Web Application](/webapp)
   - [The Good and the Bad](/comparison)
 - What to improve?
-  - [Goal](/goal)
-  - [Now](/now)
-  - [Near - In 1 year](/near)
-  - [Future](/future)
+  - [Timeline](/timeline)
+  - [Guide for implementation](/implementation)
+
