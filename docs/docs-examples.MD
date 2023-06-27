@@ -2,12 +2,10 @@
 ## [Atlas Academic schedule builder](https://atlas.ai.umich.edu/about/)
 by Center for Academic Innovation
 
-
-
 ## [Tailwind CSS](https://tailwindcss.com/docs/installation)
 ![tailwind CSS doc](../assets/tailwinCSS-doc.png)
 
-Common UI patterm:
+### Common UI patterm:
   - Nav bar: 
     - version
     - search bar

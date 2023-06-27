@@ -1,9 +1,14 @@
 ## Workflow for short-term implementation
-  ### within a year (NOW - July 1st 2024)
+Our goal is to make a **standardlized** documentation template for all the web applications develop and maintain by WADS team
+  - Easy to implement
+  - Easy to read
+  - Easy to maintain
+  
+  ### Within a Year (NOW - July 1st 2024)
   - Build Docsify template
   - Migration of our current documentation
   - Use route convention (appurl.com/docs should lead to documentation page)
-  - Utilize Github's access management and in-browser editing
+  - Utilize Github's access management and in-browser editing(press . on Github repo page opens up Github's in-browser editor).
   
   ### Long-term implementation
   #### Inline editing
