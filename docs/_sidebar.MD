@@ -1,5 +1,8 @@
 - [Agenda](/agenda)
-- Demo of Cool docs
+- [Why Docsify?](/why-doc)
+- [Demo of Cool docs](/docs-examples)
+  - [Atlas]
+  - [Mprint]
   - [Tailwind CSS](/tailwind-css)
   - [Docsify](/docsify-doc)
   - [Gitlab](/gitlab)
