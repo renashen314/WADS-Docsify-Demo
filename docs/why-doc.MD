@@ -1,3 +1,16 @@
+# Documentation is improtant!
+**Communication is at the core of what W&ADS does.** It serves as the bridge between our apps and users.
+
+Therefore, writing documentation is an essential part of application development. 
+
+The **better** the documentation, the **easier** it is for users to start using the app. 
+A good documentation should __reduce__ the number of following:
+
+1. Slack messages to seek support on “How to do this?” or simply saying “It doesn’t work, I don’t know why.”
+
+2. People given up on using our application because it has no clear quick start instructions.
+
+## Why Docsify?
 Docsify is a documentation site generator.
 
 It generates dynamically loads and parses markdown files and displays them on websites.
@@ -5,12 +18,6 @@ It generates dynamically loads and parses markdown files and displays them on we
 With a docsify template, our team can easily create, manage, and maintain documentation for apps.
 
 ## How does Docsify magic works?
-(short code demo)
+![doscify index file](../assets/docsify-index.png)
+![folder hierarchy](../assets/folder-hierarchy.png)
 
-## Documentation is improtant!
-For users, it serves as a clear guide. A clean, well designed documentation will decrease confusion, and reduce workload for supports.
-
-Writing documentation is an essential part of open source activities. The better the documentation, the easier it is for users to start working with your library or project. But what is the definition of “better”? Let me narrow it down to just two key metrics:
-
-1. The number of issues asking “How to do X?” or simply saying “It doesn’t work, I don’t know why.”
-2. The number of people given up on using your projects because it has no clear quick start instructions.

@@ -1,12 +1,11 @@
 ### URL convention
   - Having a /docs and /docs/edit path to view and edit the docs as needed
   - Having a /docs/[ROLE] and /docs/[ROLE]/edit to maintain user-level and stakeholder specific documentation
+  ![tailwind CSS URL](../assets/tailwind-css-url.png)
+  ![git lab url](../assets/gitlab-url.png)
 
 ### Implementation with Rails
-  - Create a /docs route in route.rb
-  get "docs"
-  - Copy and modify index.html file from the Docsify starter pack into .erb format
-  *(NOTE: The docsify template is developed using Vue.js can work independently, save for routing, but we will test and figure out what is the ideal way to incorporate it into non-JS based environments)*
+  - Working prototype implementation in the Model Rails template.
 
 ### Implementation with .NET
 #### [docsify-this.net](https://docsify-this.net/#/) 

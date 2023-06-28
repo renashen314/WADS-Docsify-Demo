@@ -1,5 +1,5 @@
+- [Why Docs?](/why-doc)
 - [Agenda](/agenda)
-- [Why Docsify?](/why-doc)
 - [Demo of Cool docs](/docs-examples)
 - Current Implementation
   - [Google Docs](/gdocs)
