@@ -1,15 +1,23 @@
-### URL convention
-  - Having a /docs and /docs/edit path to view and edit the docs as needed
-  - Having a /docs/[ROLE] and /docs/[ROLE]/edit to maintain user-level and stakeholder specific documentation
-  ![tailwind CSS URL](../assets/tailwind-css-url.png)
-  ![git lab url](../assets/gitlab-url.png)
+## Workflow for short-term implementation
+Our goal is to make a **standardized** documentation template and route for all the web applications developed and maintain by WADS team. This template should be:
+  - Easy to implement
+  - Easy to read
+  - Easy to maintain
+  
+### Within a Year (NOW - July 1st 2024)
+  - Build the docsify-powered template
+  - Collect all existing documentation and begin migration to new template
+  - Use route convention (app_url.com/docs should lead to documentation page)
+  - Utilize Github's access management and in-browser editing(press . on Github repo page opens up Github's in-browser editor) to streamline hosting, editing and maintaining of the /docs route.
+  
+### Long-term implementation
+#### Inline editing
+  - Having a rich text editor to format text into bullets and other elements
+##### Example
+  - [Trix](https://trix-editor.org/)
+    A rich text editor that provide support for embedded attachments, and outputs terse and consistent HTML
 
-### Implementation with Rails
-  - Working prototype implementation in the Model Rails template.
-
-### Implementation with .NET
-#### [docsify-this.net](https://docsify-this.net/#/) 
-A hosted Web app that uses Docsify to display remote Markdown files as standalone web pages (which are also perfect for embedding into other systems, such as an LMS). All you need is a publicly accessible Markdown file and provide that URL. @hibbittsdesign.
-
-#### [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) 
-This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
+#### Removing the burden of formatting from the user's shoulders
+  - Developing components that allow users to click and place pre-made stylings for documentation elements
+##### Example
+  - [Medium](medium.com/me/about)

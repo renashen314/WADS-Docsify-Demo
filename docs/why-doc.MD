@@ -4,7 +4,7 @@
 Therefore, writing documentation is an essential part of application development. 
 
 The **better** the documentation, the **easier** it is for users to start using the app. 
-A good documentation should __reduce__ the number of following:
+A good documentation should *reduce* the number of following:
 
 1. Slack messages to seek support on “How to do this?” or simply saying “It doesn’t work, I don’t know why.”
 
