@@ -17,7 +17,7 @@ It generates dynamically loads and parses markdown files and displays them on we
 
 With a docsify template, our team can easily create, manage, and maintain documentation for apps.
 
-## How does Docsify magic works?
+## How does Docsify magic work?
 ![doscify index file](../assets/docsify-index.png)
 ![folder hierarchy](../assets/folder-hierarchy.png)
 
