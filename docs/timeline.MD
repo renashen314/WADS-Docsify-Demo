@@ -3,6 +3,19 @@ Our goal is to make a **standardized** documentation template and route for all 
   - Easy to implement
   - Easy to read
   - Easy to maintain
+
+## Customization
+Thanks to the open-source nature of docsify, there are multiple ways to make it our own upon implementation!
+1. We locally modify the stylesheets and remove CDN dependencies
+2. We use [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/), an open-source styling editor for docsify.
+
+PROS OF APPROACH 2:
+- Easy customization through CSS variables and pre-made styles
+- Is Docsify's go-to recommended add-on for this task
+- Allows for custom styling on top of existing themes
+
+CONS OF APPROACH 2:
+- Relies on a bunch of CDNs, which while well maintained (jsDelivr), could become a point of failure in the long term.
   
 ### Within a Year (NOW - July 1st 2024)
   - Build the docsify-powered template
