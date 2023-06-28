@@ -3,9 +3,10 @@
   - Having a /docs/[ROLE] and /docs/[ROLE]/edit to maintain user-level and stakeholder specific documentation
 
 ### Implementation with Rails
-  - create a /docs route in route.rb
+  - Create a /docs route in route.rb
   get "docs"
-  - copy and modify index.html file from the Docsify starter pack into .erb format
+  - Copy and modify index.html file from the Docsify starter pack into .erb format
+  *(NOTE: The docsify template is developed using Vue.js can work independently, save for routing, but we will test and figure out what is the ideal way to incorporate it into non-JS based environments)*
 
 ### Implementation with .NET
 #### [docsify-this.net](https://docsify-this.net/#/) 
