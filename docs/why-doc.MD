@@ -1,4 +1,4 @@
-# Documentation is improtant!
+# Documentation is important!
 **Communication is at the core of what W&ADS does.** It serves as the bridge between our apps and users.
 
 Therefore, writing documentation is an essential part of application development. 
